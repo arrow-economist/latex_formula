@@ -86,5 +86,11 @@ Latex는 수식을 잘 쓰기 위해서 쓴다고 해도 과언이 아니다. �
 |`\nexists`|$\nexists$|
 |`\And`|$\And$|
 |`\vee`|$\vee$|
+|`\wedge`|$\wedge$|
+|`\therefore`|$\therefore$|
+|`\because`|$\because$|
+|`\neg`|$\neg$|
+|`\Rightarrow`|$\Rightarrow$|
+|`\Leftrightarrow`|$\Leftrightarrow$|
 
 # Not yet completeted
