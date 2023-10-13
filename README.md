@@ -80,6 +80,11 @@ Latex는 수식을 잘 쓰기 위해서 쓴다고 해도 과언이 아니다. �
 ## 논리연산자
 |LaTeX|표현|
 |----|---|
-|`\QED`|$\QED$|
+|`\blacksquare`|$\blacksquare$|
+|`\forall`|$\forall$|
+|`\exists`|$\exists$|
+|`\nexists`|$\nexists$|
+|`\And`|$\And$|
+|`\or`|$\or$|
 
 # Not yet completeted
