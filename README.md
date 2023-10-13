@@ -85,6 +85,6 @@ Latex는 수식을 잘 쓰기 위해서 쓴다고 해도 과언이 아니다. �
 |`\exists`|$\exists$|
 |`\nexists`|$\nexists$|
 |`\And`|$\And$|
-|`\or`|$\or$|
+|`\vee`|$\vee$|
 
 # Not yet completeted
