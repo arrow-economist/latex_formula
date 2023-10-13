@@ -42,7 +42,7 @@ Latex는 수식을 잘 쓰기 위해서 쓴다고 해도 과언이 아니다. �
 |----|---|
 |`a \times b`|$a \times b$|
 |`a \pm b`|$a \pm b$|
-|`\cdot`|$\cdot0$|
+|`\cdot`|$\cdot$|
 |`\circ`|$\circ$|
 |`\oplus`|$\oplus$|
 |`\otimes`|$\otimes$|
@@ -76,5 +76,10 @@ Latex는 수식을 잘 쓰기 위해서 쓴다고 해도 과언이 아니다. �
 |`a \succ b`|$a \succ b$|
 |`a \nsucc b`|$a \nsucc b$|
 |`a \succsim b`|$a \succsim b$|
+
+## 논리연산자
+|LaTeX|표현|
+|----|---|
+|`\QED`|$\QED$|
 
 # Not yet completeted
