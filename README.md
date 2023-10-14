@@ -100,7 +100,7 @@ Latex는 수식을 잘 쓰기 위해서 쓴다고 해도 과언이 아니다. �
 |`\lim_{n \to \infty}^{x_n}`|$\lim_{n \to \infty}^{x_n}$|
 |`\int_{-\infty}^{0} f(x)dx`|$\int_{-\infty}^{0} f(x)dx$|
 |`\frac{1}{N}`|$\frac{1}{N}$|
-|`f(x) = \begin{cases} 1, &\mbox{if} \quad x \neq 0 \\ 0, &\mbox{otherwise} \end{cases}`|$$ f(x) = \begin{cases} 1, &\mbox{if} \quad x \neq 0 \\ 0, &\mbox{otherwise} \end{cases}$$|
+|`f(x) = \begin{cases} 1, &\mbox{if} \quad x \neq 0 \\ 0, &\mbox{otherwise} \end{cases}`|$\begin{align*} f(x) = \begin{cases} 1, &\mbox{if} \quad x \neq 0 \\ 0, &\mbox{otherwise} \end{cases} \end{align*}$|
 
 ## 행렬
 |LaTeX|표현|
