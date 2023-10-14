@@ -93,4 +93,21 @@ Latex는 수식을 잘 쓰기 위해서 쓴다고 해도 과언이 아니다. �
 |`\Rightarrow`|$\Rightarrow$|
 |`\Leftrightarrow`|$\Leftrightarrow$|
 
+## 수식
+|LaTeX|표현|
+|----|---|
+|`\sum_{i=1}^{N}`|$\sum_{i=1}^{N}$|
+|`\lim_{n \to \infty}^{x_n}`|$\lim_{n \to \infty}^{x_n}$|
+|`\int_{-\infty}^{0} f(x)dx`|$\int_{-\infty}^{0} f(x)dx$|
+|`\frac{1}{N}`|$\frac{1}{N}$|
+|`f(x) = \begin{cases} 1, &\mbox{if} \quad x \neq 0 \\ 0, &\mbox{otherwise}`|$f(x) = \begin{cases} 1, &\mbox{if} \quad x \neq 0 \\ 0, &\mbox{otherwise}$|
+
+## 행렬
+|LaTeX|표현|
+|----|---|
+|`\begin{pmatrix} a & b \\ c & d \end{pmatrix}`|$\begin{pmatrix} a & b \\ c & d \end{pmatrix}$|
+|`\begin{bmatrix} a & b \\ c & d \end{bmatrix}`|$\begin{bmatrix} a & b \\ c & d \end{bmatrix}$|
+|`\begin{vmatrix} a & b \\ c & d \end{vmatrix}`|$\begin{vmatrix} a & b \\ c & d \end{vmatrix}$|
+
+
 # Not yet completeted
