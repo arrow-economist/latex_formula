@@ -105,9 +105,9 @@ Latex는 수식을 잘 쓰기 위해서 쓴다고 해도 과언이 아니다. �
 ## 행렬
 |LaTeX|표현|
 |----|---|
-|`\begin{pmatrix} a & b \\ c & d \end{pmatrix}`|$\begin{pmatrix} a & b \\ c & d \end{pmatrix}$|
-|`\begin{bmatrix} a & b \\ c & d \end{bmatrix}`|$\begin{bmatrix} a & b \\ c & d \end{bmatrix}$|
-|`\begin{vmatrix} a & b \\ c & d \end{vmatrix}`|$\begin{vmatrix} a & b \\ c & d \end{vmatrix}$|
+|`\begin{pmatrix} a & b \\ c & d \end{pmatrix}`|![](https://raw.githubusercontent.com/arrow-economist/imageslibrary/main/SCR-20231013-umxl.png)|
+|`\begin{bmatrix} a & b \\ c & d \end{bmatrix}`|![](https://raw.githubusercontent.com/arrow-economist/imageslibrary/main/SCR-20231013-ungc.png)|
+|`\begin{vmatrix} a & b \\ c & d \end{vmatrix}`|![](https://raw.githubusercontent.com/arrow-economist/imageslibrary/main/SCR-20231013-unmv.png)|
 
 
 # Not yet completeted
